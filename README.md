@@ -6,6 +6,7 @@ fcc-forum-pageviews.csv - raw data;
 visualizer.py - script to visualize data;
 
 * All tasks below were solved in this script
+  
   Use Pandas to import the data from "fcc-forum-pageviews.csv". Set the index to the date column.
   
   Clean the data by filtering out days when the page views were in the top 2.5% of the dataset or bottom 2.5% of the dataset.
